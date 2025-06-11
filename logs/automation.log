@@ -1,0 +1,677 @@
+11:46:09.705 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse-1885002461\testng-customsuite.xml"
+11:46:09.969 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:09.973 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:46:09.974 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:09.974 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:09.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:09.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:09.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:09.977 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:09.981 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+11:46:09.996 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+11:46:09.998 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:09.998 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:09.999 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.000 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.000 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.000 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.002 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.003 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.003 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.004 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.009 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.010 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.012 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.012 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.013 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:46:10.013 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:46:10.024 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-1885002461\testng-customsuite.xml
+
+11:46:10.050 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+11:46:13.173 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:46:13.273 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:46:13.813 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:46:13.815 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:46:15.120 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:46:15.166 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:53)oggger - Test failed...
+11:46:15.167 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Debug logs...
+11:46:15.409 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@431f1eaf: 38 ms
+11:46:15.422 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@670ce331: 12 ms
+11:46:15.429 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@3ec2ecea: 7 ms
+11:46:15.437 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3659d7b1: 8 ms
+11:46:15.442 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e746d37: 5 ms
+11:46:15.443 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e1b9411: 0 ms
+12:48:14.833 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:48:15.226 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:49:43.533 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:49:43.904 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:49:50.692 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:49:51.272 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:49:51.890 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:49:51.894 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:49:53.742 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:49:53.809 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:50:09.674 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:50:10.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:50:19.158 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:50:19.314 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:50:19.885 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:50:19.887 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:50:21.454 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:50:21.514 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:50:30.354 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:50:30.920 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:50:31.630 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:50:31.636 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:50:33.261 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:50:33.318 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:51:57.056 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:51:57.410 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:52:34.666 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:52:34.992 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:52:40.414 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:53:31.903 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:53:32.205 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:53:36.501 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:54:37.628 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+12:54:37.967 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:54:42.705 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:54:43.094 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:54:43.658 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:54:43.660 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:54:45.995 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:54:46.059 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:58:40.194 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml"
+12:58:40.560 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:58:44.604 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:58:45.143 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:58:45.707 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:58:45.709 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:58:47.665 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:58:47.740 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:58:51.462 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:58:51.593 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:58:52.361 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:58:52.365 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:58:54.475 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:58:54.588 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:58:59.842 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:00:23.498 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml"
+13:00:23.885 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+13:00:32.079 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:00:32.339 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:00:32.782 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:00:32.784 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:00:34.050 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:00:34.106 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:00:41.277 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:00:41.380 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:00:41.929 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:00:41.933 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:00:43.312 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:00:43.351 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:00:47.148 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:01:22.084 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:01:22.433 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:01:26.683 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:02:43.129 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:02:43.495 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:02:50.088 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:02:50.402 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:02:51.084 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:02:51.090 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:02:52.954 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:02:53.040 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:03:22.457 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml"
+13:03:22.854 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+13:03:26.881 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:03:27.470 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:03:27.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:03:27.766 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:03:28.074 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:03:28.164 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:03:28.526 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:03:28.529 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:03:30.670 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:03:30.734 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:03:31.420 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:03:31.538 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:03:31.608 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:03:31.726 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:03:32.257 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:03:32.257 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:03:33.669 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:03:33.703 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:04:04.173 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml"
+13:04:04.528 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+13:04:09.692 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:04:10.171 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:04:10.756 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:04:10.758 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:04:12.829 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:04:12.885 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:04:17.536 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:04:17.695 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:04:18.449 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:04:18.454 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:04:20.636 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:04:20.681 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:04:27.924 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:04:28.210 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:04:28.861 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:04:28.861 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:04:30.240 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:04:30.279 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:22:14.857 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:22:15.240 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:22:18.964 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:22:19.408 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:22:20.024 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:22:20.027 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:22:22.037 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:22:22.118 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:46:11.958 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:46:12.282 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:46:37.944 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:46:38.260 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:49:51.495 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml"
+13:49:51.930 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:51:28.997 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:52:29.183 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:54:48.295 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:54:59.356 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+13:54:59.641 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+13:55:00.324 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+13:55:00.375 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+13:55:02.603 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+13:55:02.670 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+13:55:38.906 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:55:42.684 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+13:55:44.994 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+13:56:31.999 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+13:56:36.418 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+13:56:38.534 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+14:00:26.444 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+14:00:29.953 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+14:00:32.119 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+18:54:29.481 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+18:54:41.210 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:54:52.528 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+18:54:52.544 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:55:03.742 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:55:15.203 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+18:55:15.211 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:55:26.632 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+18:55:26.632 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:55:37.981 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+18:55:37.981 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+18:55:40.038 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+19:00:04.926 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+19:00:09.416 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+19:00:20.596 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+19:00:31.812 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+19:00:31.819 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+19:00:43.152 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+19:00:43.152 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+19:00:54.417 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+19:00:54.425 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+19:00:56.683 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+21:52:49.360 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+21:52:57.443 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+21:53:08.877 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+21:53:08.885 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+21:53:11.234 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+21:53:22.523 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+21:53:22.525 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+21:53:33.723 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+21:53:33.723 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+21:53:35.700 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:09:58.322 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+10:10:05.525 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+10:10:07.013 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+10:10:58.573 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+10:11:01.536 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+10:11:01.626 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+10:11:02.107 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+10:11:02.130 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+10:11:03.368 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+10:11:03.423 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+10:11:39.145 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+10:11:42.812 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:11:54.005 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:11:54.015 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:11:56.071 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:12:07.412 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:12:07.428 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:12:18.656 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:12:18.656 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:12:20.802 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:13:15.960 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+10:13:18.857 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+10:13:18.945 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+10:13:19.501 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+10:13:19.503 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+10:13:20.831 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+10:13:20.887 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+10:13:23.133 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+10:13:24.678 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+10:13:27.961 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:13:39.449 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:13:39.463 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:13:41.672 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:13:52.870 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:13:52.870 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:14:04.294 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+10:14:04.294 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+10:14:06.212 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:21:51.081 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+20:21:59.487 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+20:21:59.594 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+20:22:00.199 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+20:22:00.223 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+20:22:01.482 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+20:22:01.543 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+20:22:04.404 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+20:22:05.931 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+20:22:09.477 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:22:20.689 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:22:20.695 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:22:22.712 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:22:33.924 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:22:33.929 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:22:44.616 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:22:44.616 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:22:46.696 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:27:49.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grouping.xml
+
+20:27:52.555 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+20:27:52.689 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+20:27:53.210 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+20:27:53.211 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+20:27:54.559 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+20:27:54.610 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+20:27:57.481 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+20:27:58.931 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+20:28:02.241 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:28:13.454 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:28:13.464 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:28:16.025 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:28:27.246 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:28:27.246 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:28:37.988 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:28:37.988 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+20:28:40.188 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:74)oggger - **** Finished TC003_LoginDDT ****
+20:30:51.678 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\test-output\testng-failed.xml
+
+20:30:55.826 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - **** Starting TC003_LoginDDT ****
+11:55:02.786 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+11:55:18.564 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:55:18.873 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:55:19.843 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:55:19.931 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:55:21.709 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:55:21.763 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+11:55:24.530 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+11:55:26.656 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+11:58:03.333 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+11:58:26.488 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:05:30.682 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:05:34.834 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:05:34.955 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:05:35.483 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:05:35.485 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:05:37.232 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:05:37.277 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:05:40.785 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:05:42.596 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:06:02.867 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:06:06.125 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:06:06.304 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:06:06.970 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:06:06.975 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:06:08.626 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:06:08.658 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:06:11.823 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:06:13.546 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:09:51.227 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:09:51.462 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:09:55.874 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:09:55.963 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:09:56.498 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:09:56.501 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:09:58.129 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:09:58.183 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:10:01.455 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:10:01.592 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:10:02.342 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:10:02.344 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:10:03.971 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:10:04.021 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:10:29.627 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:10:29.852 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:10:33.878 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:10:33.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:10:34.549 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:10:34.551 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:10:35.894 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:10:35.921 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:11:25.347 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:11:25.571 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:11:29.675 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:11:29.684 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:11:29.811 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:11:29.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:13:18.622 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:13:24.684 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:13:26.270 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:13:26.292 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:13:26.558 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:13:26.773 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:13:26.996 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:13:28.046 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:13:28.046 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:24:54.520 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:24:54.744 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:24:59.440 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:24:59.443 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:24:59.587 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:24:59.664 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:34:47.190 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\master.xml
+
+12:34:50.508 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:34:50.602 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:34:51.176 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:34:51.178 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:34:52.908 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:34:52.952 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:34:55.460 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:34:57.251 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:35:40.704 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:35:40.944 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:35:45.285 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:35:45.290 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:35:45.453 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:35:45.514 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:36:05.152 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:36:05.160 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:40:07.716 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\crossbrowsertesting.xml
+
+12:40:07.952 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:40:12.770 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:40:12.770 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:40:12.889 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:40:12.993 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:38:47.068 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+15:38:52.366 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+15:38:52.614 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:38:53.395 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+15:38:53.399 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+15:38:54.940 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+15:38:54.996 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+15:38:57.079 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+15:38:59.263 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+15:39:22.903 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+15:39:26.090 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+15:39:26.216 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:39:26.817 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+15:39:26.819 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+15:39:28.304 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+15:39:28.361 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+15:39:30.764 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+15:39:32.466 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+15:41:24.388 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+15:41:31.595 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+15:41:31.967 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:41:32.570 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+15:41:32.572 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+15:41:33.940 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+15:41:33.981 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+15:41:38.862 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+15:41:40.829 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+15:43:08.710 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+15:43:11.957 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+15:43:12.113 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:43:12.696 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+15:43:12.699 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+15:43:14.623 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+15:43:14.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+15:43:17.852 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+15:43:19.501 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+15:43:25.207 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+15:43:25.485 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+15:43:26.295 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+15:43:26.296 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+15:43:27.758 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+15:43:27.801 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+15:43:33.145 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+15:43:34.861 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+16:35:14.541 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+16:35:45.630 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+16:35:50.635 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+16:35:50.885 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+16:35:51.503 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:35:51.530 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+16:35:52.998 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+16:35:53.057 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+16:35:56.041 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+16:35:57.859 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+16:36:05.644 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+16:36:05.928 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+16:36:06.516 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:36:06.517 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+16:36:07.869 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+16:36:07.906 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+16:36:13.440 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+16:36:15.450 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+17:08:59.607 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\EclipseActivity\SeleniumActivity\SeliniumEclipse\Hybrid_Driven_Framework_SDET_QA\grid-docker.xml
+
+17:09:06.157 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+17:09:06.429 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+17:09:07.073 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:09:07.084 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+17:09:09.116 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+17:09:09.196 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+17:09:11.525 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+17:09:13.379 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+17:09:20.809 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+17:09:21.155 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+17:09:21.860 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:09:21.862 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+17:09:24.076 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+17:09:24.114 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+17:09:28.908 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+17:09:30.957 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+11:47:46.917 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:47:47.135 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:47:47.640 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:47:47.647 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:47:48.799 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:47:48.839 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+11:47:50.902 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+11:47:52.520 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+11:48:39.906 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:48:40.121 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:48:40.697 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:48:40.700 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:48:41.970 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:48:42.028 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+11:48:44.238 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+11:48:45.679 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+11:49:52.488 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:49:52.612 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:49:53.059 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:49:53.061 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:49:54.347 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:49:54.386 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+11:49:56.344 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+11:49:57.922 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+11:51:36.819 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+11:51:37.032 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+11:51:37.484 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+11:51:37.485 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+11:51:38.789 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+11:51:38.833 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+11:51:41.006 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+11:51:42.459 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:29:44.407 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:29:44.711 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:29:45.300 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:29:45.303 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:29:46.652 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:29:46.707 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:29:48.736 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:29:50.342 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:30:29.168 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:30:29.422 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:30:30.063 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:30:30.067 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:30:31.413 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:30:31.448 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:30:33.676 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:30:35.378 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:33:17.047 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:33:17.263 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:33:17.774 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:33:17.776 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:33:19.306 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:33:19.368 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:33:21.416 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:33:23.021 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+12:33:45.366 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+12:33:45.478 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+12:33:45.886 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+12:33:45.889 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+12:33:47.063 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+12:33:47.100 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+12:33:49.430 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+12:33:51.179 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+16:02:04.466 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+16:02:04.732 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+16:02:05.262 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:02:05.264 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+16:02:06.653 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+16:02:06.681 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+16:02:09.883 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+16:02:11.409 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+16:05:24.016 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+16:05:24.106 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+16:05:24.708 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:05:24.712 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+16:05:26.107 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+16:05:26.168 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+16:05:28.790 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+16:05:30.560 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
+16:06:49.700 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - **** Starting TC001_AccountRegistrationTest ****
+16:06:49.817 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount Link
+16:06:50.537 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:06:50.540 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:29)oggger - Providing customer details...
+16:06:52.008 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:45)oggger - Validating expected message...
+16:06:52.035 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - **** Finished TC001_AccountRegistrationTest ****
+16:06:55.544 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Starting TC002_LoginTest ****
+16:06:57.467 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - **** Finished TC002_LoginTest ****
